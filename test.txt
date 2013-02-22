@@ -1,2 +1,3 @@
 Test file created to push repo on github v1.0
 Added v1.1
+Added v1.2
